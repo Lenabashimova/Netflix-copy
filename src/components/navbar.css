@@ -1,0 +1,36 @@
+.netflixTitle{
+  width: 170px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  z-index: 100;
+  margin-top: 10px;
+  width: 100%;
+  position: absolute;
+}
+.logIn_btn {
+  color: white;
+  font-weight: 500;
+  padding: 5px 25px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.signUp_btn {
+  color: white;
+  font-weight: 500;
+  background-color: red;
+  padding: 10px 25px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.profile_img{
+  display: inline;
+  width: 44px;
+  margin: 0 10px 4px 0;
+}
+
